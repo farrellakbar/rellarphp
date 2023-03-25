@@ -59,7 +59,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-6">
                     <div class="footer-logo">
-                        <a href="index-2.html"><img src="assets/images/logo-white.png" alt="Shivka"></a>
+                        <a href="index-2.html"><img src="assets/images/logo.png" style="height: 60px;" alt="Shivka"></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">

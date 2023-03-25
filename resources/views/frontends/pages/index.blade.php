@@ -17,7 +17,7 @@
                     <h1 class="h1-title text-black wow fadeInUp" data-wow-delay=".7s">Hey! I Am <span><img src="assets/images/hand.png" alt="Hand"></span><span>rellarphp</span></h1>
                     <p class="wow fadeInUp" data-wow-delay=".9s">I'm photographer based in Surabaya, Indonesia. <br><strong>Soaring Highs & Stay Fly!</strong></p>
                     <div class="banner-btn wow fadeInUp" data-wow-delay="1.1s">
-                        <a href="about-us.html" class="sec-btn">let's take a closer look</a>
+                        <a href="{{route('aboutme')}}" class="sec-btn">let's take a closer look</a>
                         <a href="https://www.youtube.com/watch?v=yUwpx81trCo" class="banner-play-icon popup-youtube" title="Play Video"><span><img src="assets/images/play-button.png" alt="Play"></span></a>
                     </div>
                     <div class="banner-social text-black wow fadeInUp" data-wow-delay="1.3s">
@@ -41,16 +41,16 @@
                                 <img src="assets/images/alimnet-box-icon1.png" alt="Icon">
                             </div>
                             <div class="aliment-box-content-one">
-                                <span>Best Design Awards</span>
+                                <span>SONY 18-105 f/4</span>
                             </div>
                         </div>
                         <div class="aliment-box-two">
                             <div class="aliment-icon">
                                 <img src="assets/images/alimnet-box-icon2.png" alt="Icon">
                             </div>
-                            <div class="aliment-box-content-two" id="counter">
-                                <span>Happy Clients</span>
-                                <h3 class="h3-title counting-data" data-count="25">0</h3><span>k</span>
+                            <div class="aliment-box-content-onw" id="counter">
+                                <span>SONY A6300</span>
+                                {{-- <h3 class="h3-title counting-data" data-count="25">0</h3><span>k</span> --}}
                             </div>
                         </div>
                     </div>
@@ -200,7 +200,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="my-client-brand-one">
                             <div class="my-client-box one">
-                                <img src="https://pbs.twimg.com/media/FWGdH3caUAEqBBR.jpg" alt="Brand">
+                                <img src="assets/images/brand1.png" alt="Brand">
                             </div>
                             <div class="my-client-box one mb-0">
                                 <img src="assets/images/brand2.png" alt="Brand">

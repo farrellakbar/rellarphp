@@ -8,7 +8,7 @@
                         <!-- Sit Logo Start -->
                         <div class="site-branding">
                             <a href="{{url('/')}}" title="Shivka">
-                                <img src="assets/images/logo.png" alt="Logo">
+                                <img src="assets/images/logo.png" style="height: 70px;" alt="Logo">
                             </a>
                         </div>
                         <!-- Sit Logo End -->
