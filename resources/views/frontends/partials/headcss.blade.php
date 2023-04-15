@@ -1,5 +1,5 @@
 <!-- FavIcon CSS -->
-<link rel="icon" href="assets/images/favicon.png" type="image/gif" sizes="16x16">
+<link rel="icon" href="assets/images/favicon.png" type="image/gif" sizes="20x20">
 
 <!--Bootstrap CSS-->
 <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">

@@ -34,7 +34,7 @@
             <div class="col-lg-6">
                 <div class="about-us-img-box-one wow fadeInLeft" data-wow-delay=".5s">
                     <div class="about-us-img-one">
-                        <img src="assets/images/about-us-img-one.jpg" alt="About Us">
+                        <img src="assets/images/about-us-img-one.jpg" style='width:545px;' alt="About Us">
                     </div>
                     <div class="about-us-years-one-box">
                         <div class="about-year-content-one">
